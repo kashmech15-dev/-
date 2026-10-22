@@ -1,0 +1,21 @@
+{
+    "CSSNavigation.activeHTMLFileExtensions": [
+        "html",
+        "ejs",
+        "erb",
+        "php",
+        "hbs",
+        "js",
+        "ts",
+        "jsx",
+        "tsx",
+        "vue",
+        "twig",
+        "astro",
+        "svelte",
+        "",
+        ""
+    ],
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "chat.agent.sandbox.network.allowLocalNetwork": true
+}
