@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "e:\\Bike taxi app Sanbox API documentaiom file\\+\\+.sqlproj": {}
+  },
+  "projects": {
+    "e:\\Bike taxi app Sanbox API documentaiom file\\+\\+.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\Bike taxi app Sanbox API documentaiom file\\+\\+.sqlproj",
+        "projectName": "+",
+        "projectPath": "e:\\Bike taxi app Sanbox API documentaiom file\\+\\+.sqlproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "e:\\Bike taxi app Sanbox API documentaiom file\\+\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.2.26504.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "oracle.sql-developer"
+        "oracle.sql-developer",
+        "golang.go",
+        "innoverio.vscode-dbt-power-user"
     ]
 }
