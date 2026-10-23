@@ -2,6 +2,7 @@
     "recommendations": [
         "oracle.sql-developer",
         "golang.go",
-        "innoverio.vscode-dbt-power-user"
+        "innoverio.vscode-dbt-power-user",
+        "matthiesen-technology.yaml-with-script"
     ]
 }
